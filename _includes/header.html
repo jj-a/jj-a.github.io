@@ -5,6 +5,7 @@
         <span class="site-description">{{site.user_title}}</span>
       </h1>
       <div class="header-icons">
+        <a aria-label="My Phone" href="#phone"><i class="icon fa fa-phone" aria-hidden="true"></i></a>
         <a aria-label="Send email" href="mailto:{{site.email}}"><i class="icon fa fa-envelope"></i></a>
         <a aria-label="My Blog" target="_blank" href="https://{{site.blog}}"><i class="icon fas fa-blog" aria-hidden="true"></i></a>
         <a aria-label="My Github" target="_blank" href="https://github.com/{{site.github_username}}"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
@@ -15,4 +16,19 @@
       </div>
   </div>
   <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+</div>
+
+<div id="phone" class="modal-window">
+  <div>
+    <a href="#" title="Close" class="modal-close">Close</a>
+    <h1>Contact</h1>
+    <div>
+      <p><small>Phone</small></p>
+      <p>{{site.phone}}</p>
+    </div>
+    <div>
+      <p><small>Email</small></p>
+      <p>{{site.email}}</p>
+    </div>
+  </div>
 </div>
