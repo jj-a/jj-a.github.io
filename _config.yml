@@ -5,15 +5,16 @@ description: 신입 개발자 포트폴리오
 # url: "jj-a.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: 정진아 (Jina Jeong)
+username: Jina Jeong
+username_kr: 정진아
 user_description: 새로운 지식을 익히는 것을 좋아하며 문제가 완벽히 해결되야 직성이 풀리는 성격의 소유자입니다. 타인의 일도 내 일처럼 여기며 어려운 일이 있을 때 돕는 것을 주저하지 않습니다. 가장 좋아하는 문장은 루이스 캐럴(Lewis Carrol)의 <거울 나라의 앨리스>에 등장하는 붉은 여왕(Red Queen)의 대사 ─ ‘여기서는 힘껏 달려야 제자리야, 나무를 벗어나려면 지금보다 두 배는 더 빨리 달려야 해.’
 user_title: Software Developer
 email: kitty3365@hanmail.net
+phone: 010-4578-9041
 twitter_username: 
 github_username:  jj-a
 gplus_username:  
 blog:  d-e-v.tistory.com
-phone: 010-4578-9041
 
 # Google-analytics
 google-analytics:

@@ -1,7 +1,7 @@
 <div id="particles-js">
   <div class="header">
       <h1>
-        <span class="site-title">{{site.username}}</span>
+        <span class="site-title">{{site.username}}<small>{{site.username_kr}}</small></span>
         <span class="site-description">{{site.user_title}}</span>
       </h1>
       <div class="header-icons">
@@ -14,21 +14,22 @@
         <a class="link" href="#about" data-scroll>About Me</a>
         <a class="link" href="#projects" data-scroll>Projects</a>
       </div>
+
+      <div id="phone" class="modal-window">
+        <div>
+          <a href="#" title="Close" class="modal-close">Close</a>
+          <h1>Contact</h1>
+          <div>
+            <p><small>Phone</small></p>
+            <p>{{site.phone}}</p>
+          </div>
+          <div>
+            <p><small>Email</small></p>
+            <p>{{site.email}}</p>
+          </div>
+        </div>
+      </div>
+
   </div>
   <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
-</div>
-
-<div id="phone" class="modal-window">
-  <div>
-    <a href="#" title="Close" class="modal-close">Close</a>
-    <h1>Contact</h1>
-    <div>
-      <p><small>Phone</small></p>
-      <p>{{site.phone}}</p>
-    </div>
-    <div>
-      <p><small>Email</small></p>
-      <p>{{site.email}}</p>
-    </div>
-  </div>
 </div>
