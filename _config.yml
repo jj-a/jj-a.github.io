@@ -9,13 +9,15 @@ username: Jina Jeong
 username_kr: 정진아
 user_description:
   <p>저는 Process Mining 소프트웨어 개발의 백엔드 엔지니어로 약 4년(3년 9개월)간 일했습니다.</p>
-  <h3>흥미로운 사실</h3>
-  <ul class="interesting-things">
-    <li>대용량 데이터가 포함된 NoSQL (ElasticSearch) 기반 서비스를 대용량 데이터에 최적화된 RDB로 마이그레이션한 경험이 있습니다.</li>
-    <li>일반 OOP 어플리케이션을 DDD 구조의 마이크로 서비스 어플리케이션으로 재개발하는 프로젝트에 참여하였고 초기 구조 설계를 맡았으며, 그 중 대용량 데이터 집계 관련 기능을 제공하는 어플리케이션의 리드 개발을 담당하였습니다.</li>
-    <li>대용량 데이터로 유의미한 분석을 하는 SQL을 많이 작성했고, 이를 서비스에 녹여내는 데 주력했습니다.</li>
-    <li>DB는 ClickHouse(https://clickhouse.com/clickhouse)를 주로 사용했지만 여러 유사 RDB 경험이 있고, 국내에서 다소 마이너한 DB였기 때문에 특정 스택에 국한되지 않고 적응할 수 있는 능력이 생겼습니다😂</li>
-  </ul>
+  <div width="80%" align="">
+    <h3>흥미로운 사실</h3>
+    <ul class="interesting-things">
+      <li style="list-style-type:'💡 '">대용량 데이터가 포함된 NoSQL (ElasticSearch) 기반 서비스를 대용량 데이터에 최적화된 RDB로 마이그레이션한 경험이 있습니다.</li>
+      <li style="list-style-type:'💡 '">일반 OOP 어플리케이션을 DDD 구조의 마이크로 서비스 어플리케이션으로 재개발하는 프로젝트에 참여하였고 초기 구조 설계를 맡았으며, 그 중 대용량 데이터 집계 관련 기능을 제공하는 어플리케이션의 리드 개발을 담당하였습니다.</li>
+      <li style="list-style-type:'💡 '">대용량 데이터로 유의미한 분석을 하는 SQL을 많이 작성했고, 이를 서비스에 녹여내는 데 주력했습니다.</li>
+      <li style="list-style-type:'💡 '">DB는 ClickHouse(https://clickhouse.com/clickhouse)를 주로 사용했지만 여러 유사 RDB 경험이 있고, 국내에서 다소 마이너한 DB였기 때문에 특정 스택에 국한되지 않고 적응할 수 있는 능력이 생겼습니다😂</li>
+    </ul>
+  </div>
 user_title: Backend Developer (4th)
 email: jxxbom@gmail.com
 phone: +82 010-4578-9041
